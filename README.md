@@ -22,7 +22,7 @@ Task:  Build out the methods and relationships for a `Student` model, a `Course`
 - `Student#name`
   - returns the name of the given `Student`
 - `Student.find_by_name(name)`
-  - given a string of a name, returns the **first tourist** whose  name matches
+  - given a string of a name, returns the **first student** whose  name matches
 - `Student#enrollments`
   - returns an **array** of all the enrollments taken by the given `Student`
 - `Student#courses`
