@@ -25,8 +25,8 @@ Task:  Build out the methods and relationships for a `Student` model, a `Course`
   - given a string of a name, returns the **first tourist** whose  name matches
 - `Student#enrollments`
   - returns an **array** of all the enrollments taken by the given `Student`
-- `Student#classes`
-  - returns an **array** of all the classes for the given `Student`
+- `Student#courses`
+  - returns an **array** of all the courses for the given `Student`
 - `Student#take_course(course)` should create a new enrollment for that student to the given course
 
 #### Build out the following methods on the `Course` class
