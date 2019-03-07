@@ -47,4 +47,4 @@ puts "Knows student of an enrollment?"
 puts en1.student == buffy 
 
 puts "Knows course of an enrollment?"
-puts en1.course = bio
+puts en1.course == bio
